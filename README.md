@@ -4,7 +4,7 @@
 </h1>
 
 <p><font size="3">
-This is a dummy website to practice my React & Tailwind Skills.
+This is a responsive dummy website to practice my React & Tailwind Skills.
   <br><br> 
   <strong><em>Here is the live version:</em></strong> https://tailwind-website.pages.dev/
 </p>
